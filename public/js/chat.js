@@ -6,7 +6,7 @@ const newli = (text,className)=>{
     newli.setAttribute("class",className);
     document.getElementById("ulid").appendChild(newli);
 }
-newli("Made by Ezra :) Click me to get projects","git");
+newli("Made by Ezra :) Click me to get projects :) scroll down to get input for phones","git");
 newli("You joined the chat","users");
 socket.on("new-user",name =>{
     newli(name,"users");
