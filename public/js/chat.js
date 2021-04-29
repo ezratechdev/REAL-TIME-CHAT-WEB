@@ -26,6 +26,6 @@ const git = document.querySelector(".git");
 const gitter = document.querySelector("#git");
 const clicker = elem =>{
     elem.addEventListener("click",e =>{
-        window.location.href = "";
+        window.location.href = "https://github.com/ACING-TECHNOLOGY/REAL-TIME-CHAT-WEB.git";
     });
 }
