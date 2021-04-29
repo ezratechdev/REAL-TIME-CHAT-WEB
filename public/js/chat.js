@@ -29,3 +29,5 @@ const clicker = elem =>{
         window.location.href = "https://github.com/ACING-TECHNOLOGY/REAL-TIME-CHAT-WEB.git";
     });
 }
+clicker(git);
+clicker(gitter);
